@@ -5,6 +5,6 @@
     <string name="milli_oz">Millimeter (ml) to fluid ounce (oz)</string>
     <string name="oz_milli">Fluid ounce (oz) to millimeter (ml)</string>
     <string name="service_question_text">How was the service?</string>
-    <string name="amount_in_volume">Amount</string>
-    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="amount_in_volume">Volume</string>
+    <string name="converted_result">Result: %s</string>
 </resources>
